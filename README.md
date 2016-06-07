@@ -1,2 +1,2 @@
-# IOS-Android-auth
-Mobile Apps Authentication
+### IOS-Android-auth
+Mobile Apps Authentication using React-Native and Firebase
